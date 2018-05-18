@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "can-assign": "^1.1.1",
+    "can-bind": "file:../can-bind",
     "can-construct": "^3.2.0",
     "can-control": "^4.0.0",
     "can-define": "^2.0.0",
@@ -57,6 +58,7 @@
     "can-stache-key": "^1.0.0",
     "can-symbol": "^1.4.1",
     "can-util": "^3.9.5",
+    "can-value": "<2.0.0",
     "can-view-callbacks": "^4.0.0",
     "can-view-model": "^4.0.0",
     "can-view-nodelist": "^4.0.0",
